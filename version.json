@@ -1,18 +1,18 @@
 {
-  "latest_version": "0.1.8",
-  "published_at": "2026-09-12T10:25:06.965Z",
+  "latest_version": "0.1.9",
+  "published_at": "2026-09-13T10:30:09.115Z",
   "update_url": "https://github.com/DugansDen/den-releases/releases/latest",
   "min_supported_version": "0.1.2",
   "platforms": {
     "windows": {
-      "asset": "DugansDen_0.1.8_x64-setup.exe",
-      "sha256": "d6bea3abdca8753694f24b672a546c73fabf20b43e4144ea10ebea7b51c485ff",
-      "size": 3929002
+      "asset": "DugansDen_0.1.9_x64-setup.exe",
+      "sha256": "0dbc14b24569b80c604ff77b2a643c331c5d7661e8a5885027cfcffd28f89cb7",
+      "size": 3942684
     },
     "android": {
-      "asset": "den-0.1.8-android.apk",
-      "sha256": "bd4aa37cc30cf03bbf4038f43e38888110d8a4d6bc36be2b5421f0fc14207f54",
-      "size": 90073819
+      "asset": "den-0.1.9-android.apk",
+      "sha256": "3b7eb2d75ee7632c4a97473f0bd4a419623caf538a5ae5c6fc989ccfbb27e442",
+      "size": 90090325
     }
   }
 }
